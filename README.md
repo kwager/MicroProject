@@ -13,8 +13,8 @@ This repository contains my micro-project analyzing how demographic factors infl
 - Multilayer Perceptron (MLP) trained on the same demographic feature set as Model 2. 
 
 ## Results
-- Model 1: Accuracy = 0.852, AUC = 0.88
-- Model 2: Accuracy = 0.833, AUC = 0.90
+- Model 1: Accuracy = 0.852, AUC = 0.90
+- Model 2: Accuracy = 0.833, AUC = 0.88
 - MLP: Accuracy = 0.830, AUC = 0.88, Precision = 0.723
 
 ## Conclusion
